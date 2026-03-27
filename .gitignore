@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore the virtual environment if you make one later
+venv/
+env/
+.env
+
+# MacOS system files (if you or someone else uses a Mac)
+.DS_Store
