@@ -40,7 +40,8 @@ MDVRP/
 ### 1. Clone / enter the project directory
 
 ```bash
-cd "vit 4th semester/MDVRP"
+git clone https://github.com/Sughosh505/Multi-Depot-Vehicle-Routing-optimizer.git
+cd Multi-Depot-Vehicle-Routing-optimizer
 ```
 
 ### 2. (Recommended) Create a virtual environment
